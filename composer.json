@@ -13,20 +13,10 @@
     },
     "require": {
         "php": ">=5.6",
-        "hao/yes-php": "1.0"
+        "hao/yes-php": "dev-master",
+        "laminas/laminas-stdlib": "^3.2"
     },
     "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "hao/yes-php",
-                "version": "1.0",
-                "source": {
-                    "url": "https://github.com/quachvanhao2020/YesPHP.git",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
-        }
+        {"type": "vcs", "url": "https://github.com/quachvanhao2020/YesPHP.git"}
     ]
 }
