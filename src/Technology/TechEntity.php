@@ -1,5 +1,5 @@
 <?php
-namespace UltimateModel\Technology\Tech\Tech;
+namespace UltimateModel\Technology;
 
 use UltimateModel\Entity;
 
