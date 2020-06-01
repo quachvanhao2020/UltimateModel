@@ -1,5 +1,5 @@
 <?php
-namespace TGDDFace\Model;
+namespace UltimateModel\ECommerce;
 
 use UltimateModel\Entity;
 use UltimateModel\ECommerce\Category;
